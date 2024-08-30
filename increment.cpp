@@ -38,3 +38,17 @@ int main(){
 
     return 0;
 }
+/* OUTPUT:- 
+for integer:-
+before incrementation - 0x61ff00
+after incrementation - 0x61ff04
+4201536
+for float:-
+before incrementation - 0x61fefc
+after incrementation - 0x61ff00
+1.4013e-044
+for bool:- 
+before incrementation - 0x61fefb
+after incrementation - 0x61fefc
+102
+*/
